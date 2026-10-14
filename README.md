@@ -7,7 +7,7 @@ und arbeite daneben als Werkstudent bei **Matcharpro**.
 
 - Softwareentwicklung mit Python
 - Machine Learning und Datenanalyse
-- DevOps-Praktiken: Versionsverwaltung, Automatisierung, CI/CD
+
 
 ## Technologien
 

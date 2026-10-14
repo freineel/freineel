@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hallo, ich bin Neel 👋
 
-<!--
-**freineel/freineel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ich studiere **Computational and Data Science** an der FH Graubünden in Chur
+und arbeite daneben als Werkstudent bei **Matcharpro**.
 
-Here are some ideas to get you started:
+## Woran ich gerade arbeite
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Softwareentwicklung mit Python
+- Machine Learning und Datenanalyse
+- DevOps-Praktiken: Versionsverwaltung, Automatisierung, CI/CD
+
+## Technologien
+
+`Python` · `PyTorch` · `Git` · `Linux`
+
